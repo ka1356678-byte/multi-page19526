@@ -1,0 +1,54 @@
+body{
+    font-family: Arial;
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    background-color: green;
+    color: white;
+    padding: 15px;
+}
+
+nav ul{
+    list-style: none;
+}
+
+nav ul li{
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a{
+    color: white;
+    text-decoration: none;
+}
+
+.hero{
+    text-align: center;
+    padding: 100px;
+    background-color: lightgreen;
+}
+.img {
+    text-align: center;
+    padding: 100px;
+    color: blue;
+}
+container {
+    position: relative;
+    width: 800px;
+    height: 600px;
+}
+button{
+    padding: 10px 20px;
+    background-color: darkgreen;
+    color: white;
+    border: none;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
